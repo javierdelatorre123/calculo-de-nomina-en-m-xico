@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Sueldo México 2024",
+  "description": "Calculadora avanzada de nómina mexicana que determina salario neto, bruto, impuestos (ISR, IMSS) y costo patronal total, incluyendo aguinaldo y prima vacacional según la Ley Federal del Trabajo.",
+  "requestFramePermissions": []
+}
